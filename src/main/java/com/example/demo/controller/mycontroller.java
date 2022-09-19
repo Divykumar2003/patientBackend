@@ -14,8 +14,7 @@ public class mycontroller {
     @GetMapping("/getDate")
         public Date displayDate(){
             return new Date();
-        }
-    
+        }    
     }
 
 
