@@ -15,7 +15,7 @@ public class Patient {
     public Patient(Integer id, String name, String address, Integer age) {
         this.id = id;
         this.name = name;
-        this.address = address;
+        this.address = address; 
         this.age=age;
     }
 
